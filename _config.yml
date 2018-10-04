@@ -43,9 +43,9 @@ app:
 #
 # Marketing
 #
-marketing_header: Crack the CODE to an Awesome Speech # Optional
+marketing_header: Crack the CODE to an Awesome Sppech # Optional
 marketing_desc: The SpeakCODE app is a resource hub for students to use throughout the semester to help them dive into the essential elements of preparing for a professional speech.
-#
+
 # Social Links
 #
 # Includes an icon for each username you enter
@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: Crack the CODE to an Awesome Sppech! # Optional - Enter your site title
-description: The SpeakCODE app is a resource hub for students to help them dive into the essential elements of preparing for a professional speech: Content, Orgamization, Delivery & Effect.
+title: Crack the CODE to an Awesome Sppech # Optional - Enter your site title
+description: The SpeakCODE app is a resource hub for students to use throughout the semester to help them dive into the essential elements of preparing for a professional speech.
 
 # # Optional - Enter your site description
 
