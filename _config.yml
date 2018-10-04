@@ -7,7 +7,7 @@
 #
 # General App Info
 #
-baseurl: "speakcode"
+baseurl: "/speakcode"
 app:
   name: SpeakCODE # REQUIRED - Enter your app name
   ios_id: # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
