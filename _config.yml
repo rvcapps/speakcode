@@ -7,7 +7,7 @@
 #
 # General App Info
 #
-#baseurl: "/speakcode"
+baseurl: "/speakcode"
 app:
   name: SpeakCODE # REQUIRED - Enter your app name
   ios_id: # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
@@ -43,7 +43,7 @@ app:
 #
 # Marketing
 #
-marketing_header: {SpeakCODE}={Awesome Speech} # Optional
+marketing_header: Apply {CODE} = {Awesome Speech} # Optional
 marketing_desc: The SpeakCODE app is a resource hub for students to use throughout the semester to help them dive into the essential elements of preparing for a professional speech.
 
 # Social Links
