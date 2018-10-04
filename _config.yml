@@ -64,8 +64,8 @@ social-links:
 # Enable/Disable Features & Page Elements
 #
 enable:
-  app_icon: false
-  smart_app_banner: false
+  app_icon: true
+  smart_app_banner: true
 
 #
 # Device
